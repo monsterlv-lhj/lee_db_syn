@@ -1,0 +1,13 @@
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略 IDE 配置
+.vscode/
+.idea/
+
+# 忽略日志文件
+*.log
+
+# 忽略私密配置
+*.env
